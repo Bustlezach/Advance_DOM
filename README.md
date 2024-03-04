@@ -23,4 +23,3 @@
 
 11. JavaScript Interactivity: Various JavaScript functionalities are implemented, such as opening and closing modals, scrolling to sections, tabbed components, sticky navigation, revealing sections on scroll, lazy loading images, and a slider.
 
-Overall, the website offers a clean and user-friendly interface for potential customers to explore the bank's services and sign up for an account.
